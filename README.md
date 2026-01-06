@@ -1,25 +1,31 @@
+---
+title: Mercado Fichajes Era Dorada del Fútbol
+image: imagenes/edit_mercado.jpg     
+about:
+  template: jolla        
+  image-width: 15em         
+  image-shape: round  
+  links:
+    - icon: envelope
+      text: e-mail
+      url: "mailto:<sicaol@alumni.uv.es>"            
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/<tu-usuario-Linkedin>     
+    - icon: github
+      text: Github
+      href: https://github.com/simoncasan
 
-## Trabajo individual para la asignatura "Big Data"
+toc: false
+code-tools: false
+---
 
-<!-- El párrafo de abajo has de dejarlo tal cual. NO HAS DE CAMBIAR NADA!!-->
+Hola, soy Simón Casañ Olmos
 
-Repo utilizado para elaborar el trabajo individual para la asignatura 
-"Programación y manejo de datos en la era del Big Data" de la Universitat de València durante el curso 2025-2026. 
-La página web de la asignatura puede verse aquí: <https://perezp44.github.io/intro-ds-25-26-web/>.
+Esta web sirve para presentar el trabajo final individual para la asignatura "Programación y manejo de datos en la era Del Big Data", optativa de GECO en la Facultad de Economía de la Universitat de València.
 
+La web de la asignatura está [aquí](https://perezp44.github.io/intro-ds-25-26-web/){target="_blank"} y los trabajos de mis compañeros de curso puedes verlos [aquí](https://perezp44.github.io/intro-ds-25-26-web/05-trabajos-estudiantes.html){target="_blank"}.
 
+Mi trabajo lleva por título : "Mercado Fichajes Era Dorada del Fútbol". El objetivo es conocer cómo ha cambiado la tendencia de los grandes fichajes y algunas curiosidades más.
 
-<!-- En la linea de abajo HAS de SUSTITUIR 
-"perezp44" por tu usuario de Github-->
-La versión final del trabajo puede visualizarse 
-en: <https://simoncasan.github.io/trabajo_BigData_individual/>. 
-
-
-<!-- Abajo podéis escribir lo que queráis, igual un resumen del trabajo, o ..., o ...
-pero al menos, tenéis que poner el título del trabajo y tu nombre -->
-
-El autor del trabajo soy yo,  Manuel Andorra Grande (macogaaaaxxx@alumni.uv.es), .....
-
-El título del trabajo es .....  En el trabajo se hace  .... blah-blah ...
-
-
+El trabajo puede verse [aquí](my_trabajo_BigData.html).
